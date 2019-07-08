@@ -9,6 +9,9 @@ verify_ssl = true
 pylint = "*"
 autopep8 = "*"
 aiohttp = "*"
+botbuilder-core = "*"
+botbuilder-schema = "*"
+botframework-connector = "*"
 
 [requires]
 python_version = "3.7"
